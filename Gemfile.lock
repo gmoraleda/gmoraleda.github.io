@@ -121,7 +121,7 @@ GEM
       ffi (~> 1.0)
     rbs (3.6.1)
       logger
-    rexml (3.3.8)
+    rexml (3.3.9)
     rouge (4.4.0)
     safe_yaml (1.0.5)
     sass-embedded (1.80.3)
