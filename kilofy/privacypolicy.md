@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Kilofy app (hereby referred to as "Application") for mobile devices that was created by Guillermo Moraleda (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Kilofy/tadoWidgets app (hereby referred to as "Application") for mobile devices that was created by Guillermo Moraleda (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
