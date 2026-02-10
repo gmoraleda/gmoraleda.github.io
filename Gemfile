@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.1"
 gem "jekyll-theme-hydejack", "~> 9.1"
-gem 'faraday', '~> 2.7'
+gem 'faraday', '~> 2.14'
 gem 'faraday-retry'
 
 
