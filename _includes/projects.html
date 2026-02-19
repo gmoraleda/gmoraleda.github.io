@@ -1,11 +1,16 @@
-<div class="user-details">
-  <h1>Selected Projects</h1>
-</div>
-<div class="user-projects project-list">
-  {% include projects/apple-internal.html %}
-  {% include projects/sovi.html %}
-  {% include projects/capmo.html %}
-  {% include projects/audi.html %}
-  {% include projects/contentful-sdk.html %}
-  {% include projects/tadaima-widgets.html %}
-</div>
+{% assign projects = site.data.data.projects %}
+{% if projects %}
+<section class="projects">
+    <h2 class="title">Projects</h2>
+    {% for p in projects %}
+        <div class="project">
+            <span>
+                <a class="project-link" href="{{p.link}}">
+                    {{p.title}}
+                </a>
+            </span>
+            <span class="details">- {{p.details}}</span>
+        </div>
+    {% endfor %}
+</section>
+{% endif %}

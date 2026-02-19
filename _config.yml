@@ -1,23 +1,16 @@
-# Site settings
-title: Guillermo Moraleda
-description: Senior Software Engineer focused on iOS platforms, architecture, maintainability, accessibility, and reliable delivery.
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: 'https://gmoraleda.github.io' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Guillermo Moraleda | Senior Software Engineer, Mobile Platforms (iOS)
+description: Senior Software Engineer with 9+ years of experience in iOS platforms, architecture, and mobile reliability.
+url: https://gmoraleda.github.io
+baseurl: ''
+theme_skin: blue
 
-# User settings
-username: Guillermo Moraleda
-# create a multi-line string
+sass:
+  sass_dir: _sass
+  style: compressed
 
-user_description: >
-  Senior Software Engineer focused on iOS platforms, architecture, maintainability, accessibility, and reliable delivery.
-
-user_title: Senior Software Engineer, Mobile Platforms (iOS)
-email: moraleda@gmx.net
-github: gmoraleda
-linkedin: gmoraleda
-
-# Google-analytics
-google-analytics:
-  id: ''
-
-exclude: ['package.json', 'src', 'node_modules']
+exclude:
+  - package.json
+  - package-lock.json
+  - src
+  - node_modules
+  - vendor

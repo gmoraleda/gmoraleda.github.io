@@ -1,21 +1,7 @@
-<div id="particles-js">
-  <div class="header">
-    <p class="site-kicker">{{ site.username }}</p>
-    <h1>
-      <span class="site-description">Senior Software Engineer, Mobile Platforms (iOS)</span>
-    </h1>
-    <p class="hero-summary">
-      Senior Software Engineer specializing in iOS mobile platforms. I design and evolve native iOS applications with a strong focus on architecture, long-term maintainability, and reliable behavior in real-world conditions. I take ownership of platform foundations, release workflows, and technical quality over time. Backend systems and AWS/CDK are supporting capabilities used when mobile platforms require end-to-end ownership.
-    </p>
-    <div class="hero-cta" aria-label="Primary contact links">
-      <a class="cta-link cta-primary" aria-label="Send email" href="mailto:{{ site.email }}">Email</a>
-      <a class="cta-link" aria-label="My LinkedIn" target="_blank" rel="noopener" href="https://www.linkedin.com/in/{{ site.linkedin }}">LinkedIn</a>
-      <a class="cta-link" href="./assets/files/Guillermo-Moraleda-CV.pdf" target="_blank" rel="noopener">Download CV</a>
-    </div>
-    <div class="header-links">
-      <a class="link" href="#projects">Projects</a>
-      <a class="link" href="#capabilities">Capabilities</a>
-      <a class="link" href="#contact">Contact</a>
-    </div>
+<div class="header">
+    <h1 class="title">{{site.data.data.name}}</h1>
+    {% if site.data.data.support_dark_mode%}
+      <input type="checkbox" id="switch" name="mode" class="toggle-dark"></input>
+      <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
+    {%endif%}
   </div>
-</div>

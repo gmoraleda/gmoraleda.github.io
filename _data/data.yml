@@ -1,0 +1,157 @@
+name: Guillermo Moraleda
+support_dark_mode: true
+fork: false
+
+contact:
+  email: moraleda@gmx.net
+  github: gmoraleda
+  linkedin: gmoraleda
+  phone: "+49 (0)159 03777213"
+  gitlab:
+  twitter:
+
+languages:
+  - idiom: Catalan
+  - idiom: English
+  - idiom: German
+  - idiom: Spanish
+
+education:
+  - degree: BSc and MSc in Telecommunications Engineering (Telematics)
+    time: 2006-2011
+    university: Universitat Pompeu Fabra, Barcelona
+
+  - degree: Exchange Semester in Computer Science
+    time: 2009-2010
+    university: Karlstad Universitet, Karlstad
+
+skills:
+  - category: iOS & Mobile Platforms
+    skill:
+      - Swift
+      - SwiftUI
+      - UIKit
+      - Objective-C
+  - category: Architecture & Quality
+    skill:
+      - Mobile architecture design
+      - Offline-first systems
+      - Maintainability and modularization
+      - Automated testing
+  - category: DevOps & Cloud
+    skill:
+      - CI/CD pipelines
+      - AWS Lambda
+      - DynamoDB
+      - SQS
+      - S3
+      - AWS CDK
+
+profile: |
+  Senior Software Engineer with 9+ years of experience designing, architecting, and delivering native iOS applications
+  with a strong focus on mobile platform quality and long-term maintainability.
+  Experienced in translating complex business and domain requirements into robust technical solutions, and in
+  collaborating closely with backend, platform, security, and architecture teams in enterprise environments.
+  Strong background in mobile CI/CD and DevOps, ensuring reliable builds, automated testing, and predictable
+  App Store releases at scale.
+
+experience:
+  - role: Software Engineer - Contractor
+    time: 01/2025 - Present
+    company: Apple Inc.
+    details: |
+      Designed and delivered an internal macOS application using SwiftUI and gRPC, supporting cross-team workflows
+      and improving coordination across multiple engineering stakeholders in a highly regulated environment.
+    technologies_used: |
+      SwiftUI, gRPC
+
+  - role: Lead Software Engineer, Mobile (iOS) - Contractor
+    time: 12/2024 - Present
+    company: SOVI-App
+    details: |
+      Contributed to the development and evolution of a native iOS application for blind users, with a strong focus on
+      accessibility, VoiceOver integration, and user-centric design in a highly sensitive user context.
+      Led the migration of the backend from AWS Amplify to a custom AWS CDK-based architecture, improving
+      scalability, reliability, and long-term maintainability of the platform.
+      Designed and evolved supporting backend infrastructure and established reliable CI/CD pipelines to support
+      continuous delivery and safe iteration across mobile and backend components.
+    technologies_used: |
+      Swift, SwiftUI, AWS CDK, Lambda, DynamoDB, SQS, S3, CI/CD
+
+  - role: iOS Engineer - Contractor
+    time: 10/2024 - 12/2024
+    company: Contentful GmbH
+    details: |
+      Enhanced the performance of the iOS SDK by optimizing sync times, contributing to a more efficient developer and user experience.
+      Revamped and expanded technical documentation, improving clarity and accessibility for developers integrating the SDK.
+    technologies_used: |
+      Swift, iOS SDK development, performance optimization
+
+  - role: Senior iOS Engineer
+    time: 05/2024 - 10/2024
+    company: Audi Business Innovation GmbH
+    details: |
+      Contributed to the iOS platform team, building shared tooling and core features consumed by multiple product teams.
+      Improved application stability through enhanced monitoring and crash reduction initiatives.
+    technologies_used: |
+      Swift, platform tooling, observability
+
+  - role: Senior iOS Engineer
+    time: 10/2021 - 04/2024
+    company: Capmo GmbH
+    details: |
+      Designed and implemented a custom offline-first synchronization mechanism tailored to the product requirements,
+      ensuring data consistency and reliability under poor or intermittent connectivity.
+      Led development of a native iOS application from scratch, owning architecture and core technical decisions in
+      a complex offline-first domain.
+      Established a scalable mobile architecture through modularization with internal Swift Packages, automated testing,
+      and robust CI/CD pipelines to support long-term maintainability and team growth.
+    technologies_used: |
+      Swift, SwiftUI, offline-first sync, modularization, CI/CD
+
+  - role: iOS Engineer
+    time: 05/2021 - 09/2021
+    company: MindDoc Health GmbH
+    details: |
+      Contributed to development and maintenance of a production iOS application in the digital health domain,
+      with a strong focus on code quality, testing, and long-term maintainability.
+      Refactored legacy code and improved CI/CD workflows, reducing technical debt and increasing release reliability.
+    technologies_used: |
+      Swift, testing, CI/CD
+
+  - role: iOS Engineer
+    time: 08/2018 - 04/2021
+    company: Cluno GmbH
+    details: |
+      Contributed to development of the Cluno iOS application from early stages through acquisition by Cazoo,
+      supporting the product across multiple growth phases.
+      Developed core features and established development workflows and CI/CD pipelines, enabling scalable collaboration
+      and consistent code quality as the product and organization grew.
+    technologies_used: |
+      Swift, CI/CD, mobile product development
+
+  - role: iOS Engineer
+    time: 12/2017 - 07/2018
+    company: Mobile Software AG
+    details: |
+      Developed and maintained multiple native iOS applications across different domains using Swift and Objective-C,
+      contributing to feature development and production releases.
+      Participated in cross-team initiatives including tooling improvements, data migration, and internal hackathon organization.
+    technologies_used: |
+      Swift, Objective-C
+
+projects:
+  - title: Contentful Persistence Swift
+    link: https://github.com/contentful/contentful-persistence.swift
+    details: |
+      Performance and documentation improvements for Contentful's iOS persistence SDK used in production integrations.
+
+  - title: SOVI App
+    link: https://apps.apple.com/de/app/sovi/id1526943689?l=en-GB
+    details: |
+      Accessibility-focused iOS application with strong VoiceOver support and a scalable backend platform migration.
+
+  - title: Capmo
+    link: https://apps.apple.com/de/app/capmo-3-0/id1592068282?l=en-GB
+    details: |
+      Offline-first iOS application for construction workflows with custom sync architecture and robust delivery practices.
