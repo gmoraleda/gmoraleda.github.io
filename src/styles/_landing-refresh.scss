@@ -1,0 +1,172 @@
+/* Lead-generation focused refresh */
+#hero {
+  background: #1e2125;
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  width: min(900px, 92%);
+}
+
+.site-kicker {
+  margin: 0;
+  color: #d1d5db;
+  font-size: 1rem;
+  letter-spacing: 0.04em;
+}
+
+.header .site-description {
+  margin-top: 12px;
+  font-size: clamp(1.8rem, 4.4vw, 3rem);
+  line-height: 1.2;
+}
+
+.hero-summary {
+  max-width: 760px;
+  margin: 20px auto 0;
+  color: #e7ebf0;
+  font-size: 1.1rem;
+}
+
+.hero-cta {
+  margin-top: 28px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.cta-link {
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 9px 14px;
+  font-weight: 600;
+}
+
+.cta-primary {
+  background-color: #ffffff;
+  color: #1e2125;
+}
+
+.cta-link:hover,
+.cta-link:focus {
+  color: #1e2125;
+  background-color: #ffffff;
+}
+
+.header-links {
+  margin-top: 12px;
+}
+
+.header-links .link {
+  padding: 8px 12px;
+}
+
+#about,
+#projects {
+  width: min(960px, 90%);
+  margin: 0 auto;
+}
+
+.user-details {
+  margin: 28px auto;
+  text-align: left;
+}
+
+.user-details h1 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.location-note {
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.capabilities {
+  margin: 24px 0;
+}
+
+.capability-list {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.capability-list li {
+  padding: 6px 0;
+}
+
+.contact-block {
+  margin-top: 24px;
+}
+
+.user-projects.project-list {
+  width: 100%;
+  padding: 0;
+}
+
+.project-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 18px;
+  margin-bottom: 14px;
+  background-color: #ffffff;
+}
+
+.project-domain {
+  margin-top: 4px;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #4b5563;
+}
+
+.project-card ul {
+  margin-top: 8px;
+}
+
+.project-card li {
+  padding: 4px 0;
+}
+
+.project-header {
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.footer {
+  margin-top: 56px;
+}
+
+@media only screen and (max-width: 700px) {
+  .header {
+    position: static;
+    transform: none;
+    -webkit-transform: none;
+    text-align: left;
+    margin: 72px auto;
+  }
+
+  .hero-summary {
+    margin-left: 0;
+  }
+
+  .hero-cta {
+    justify-content: flex-start;
+  }
+
+  .header-links {
+    text-align: left;
+  }
+
+  .header-links .link {
+    display: inline-block;
+    padding-left: 0;
+    padding-right: 18px;
+  }
+}
