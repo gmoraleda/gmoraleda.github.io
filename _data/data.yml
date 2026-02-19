@@ -26,7 +26,7 @@ education:
     university: Karlstad Universitet, Karlstad
 
 skills:
-  - category: iOS & Mobile Platforms
+  - category: Core iOS
     skill:
       - Swift
       - SwiftUI
@@ -34,18 +34,18 @@ skills:
       - Objective-C
   - category: Architecture & Quality
     skill:
-      - Mobile architecture design
+      - Mobile architecture
       - Offline-first systems
-      - Maintainability and modularization
+      - Modularization & maintainability
       - Automated testing
-  - category: DevOps & Cloud
+  - category: DevOps & Cloud (supporting)
     skill:
       - CI/CD pipelines
+      - AWS CDK
       - AWS Lambda
       - DynamoDB
       - SQS
       - S3
-      - AWS CDK
 
 profile: |
   Senior Software Engineer with 9+ years of experience designing, architecting, and delivering native iOS applications
