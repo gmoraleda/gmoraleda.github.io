@@ -1,9 +1,10 @@
 <div class="user-details">
-  <h1>Featured Projects</h1>
+  <h1>Selected Projects</h1>
 </div>
-<!-- prettier-ignore -->
-<div class="user-projects">
+<div class="user-projects project-list">
+  {% include projects/apple-internal.html %}
+  {% include projects/sovi.html %}
   {% include projects/capmo.html %}
-  <div class="divider"></div>
-  {% include projects/minddoc.html %} 
+  {% include projects/audi.html %}
+  {% include projects/contentful-sdk.html %}
 </div>
