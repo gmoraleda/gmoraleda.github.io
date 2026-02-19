@@ -20,21 +20,35 @@
 @media screen and (max-width: 768px) {
     .container {
         .container-block {
-            display: block;
+            display: flex;
+            flex-direction: column;
+            row-gap: 16px;
+            .main {
+                order: 1;
+            }
+            .sidebar {
+                order: 2;
+                margin-top: 0;
+            }
         }
     }
     .header {
-        display: block;
+        display: flex;
+        align-items: center;
         .title {
-            margin:0 auto;
-        }
-        input, label {
-            display: none;
+            margin: 0;
         }
     }
     .header {
         .title {
             font-size: 32px;
+        }
+        label {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 32px;
+            min-height: 32px;
         }
     }
 }
