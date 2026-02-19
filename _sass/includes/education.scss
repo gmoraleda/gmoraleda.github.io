@@ -1,19 +1,25 @@
 .education {
     margin-bottom: 20px;
+    text-align: left;
     .title {
         @include sub-header;
+        text-align: left;
     }
     .education-item {
         margin-bottom: 20px;
+        text-align: left;
         .degree {
             @include body-text;
             font-weight: bold;
+            text-align: left;
         }
         .university {
             @include body-text;
+            text-align: left;
         }
         .time {
             @include body-text;
+            text-align: left;
         }
     }
 }

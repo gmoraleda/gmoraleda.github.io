@@ -17,6 +17,13 @@
         }
         .details {
             @include body-text;
+            margin: 6px 0 10px 0;
+            padding-left: 22px;
+            li {
+                @include body-text;
+                margin-bottom: 4px;
+                text-align: left;
+            }
         }
         .technologies {
             @include body-text;

@@ -6,7 +6,7 @@ contact:
   email: moraleda@gmx.net
   github: gmoraleda
   linkedin: gmoraleda
-  phone: "+49 (0)159 03777213"
+  phone:
   gitlab:
   twitter:
 
@@ -21,7 +21,7 @@ education:
     time: 2006-2011
     university: Universitat Pompeu Fabra, Barcelona
 
-  - degree: Exchange Semester in Computer Science
+  - degree: Computer Science
     time: 2009-2010
     university: Karlstad Universitet, Karlstad
 
