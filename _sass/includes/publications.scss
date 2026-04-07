@@ -1,3 +1,5 @@
+@use "../mixins" as *;
+
 .publications {
     .title {
         @include header;

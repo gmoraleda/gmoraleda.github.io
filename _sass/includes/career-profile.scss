@@ -1,3 +1,5 @@
+@use "../mixins" as *;
+
 .career-profile {
     .title {
         @include header;

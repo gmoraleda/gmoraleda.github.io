@@ -13,6 +13,25 @@
         line-height: 1.15;
         margin: 0;
     }
+    .home-link {
+        color: inherit;
+        text-decoration: none;
+    }
+    .header-nav {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+    .nav-link {
+        color: var(--fg-color-dark);
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 600;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
     input[type="checkbox"] {
         width: 0;
         height:0;
@@ -21,6 +40,8 @@
     label {
         cursor: pointer;
         color: var(--fg-color-dark);
-        
+        display: flex;
+        align-items: center;
+        line-height: 1;
     }
 }

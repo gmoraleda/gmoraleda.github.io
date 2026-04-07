@@ -8,6 +8,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+permalink: /posts/:title/
+paginate: 10
+paginate_path: "/posts/page:num"
+
 exclude:
   - package.json
   - package-lock.json
