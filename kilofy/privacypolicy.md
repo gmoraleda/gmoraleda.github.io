@@ -1,74 +1,61 @@
 **Privacy Policy**
 
-This privacy policy applies to the Kilofy/tadoWidgets app (hereby referred to as "Application") for mobile devices that was created by Guillermo Moraleda (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to all mobile apps published by Guillermo Moraleda (hereby referred to as "Service Provider"), including **Kilofy**, **Tadaima Widgets** and **Measurette** (each hereby referred to as "Application").
+
+The short version: the Applications have no accounts with the Service Provider, show no ads, do not track you and do not sell your data. Your content stays on your device. Some Applications use a small number of third-party services, listed below, to process purchases and to report crashes.
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+Content you create in an Application (for example trips, measurements, widget configuration and settings) is stored on your device. It is not sent to the Service Provider.
 
-- Your device's Internet Protocol address (e.g. IP address)
-- The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-- The time spent on the Application
-- The operating system you use on your mobile device
+Depending on the Application, the following data may be processed by third-party services:
 
-The Application does not gather precise information about the location of your mobile device.
+- **Purchases** (Tadaima Widgets, Measurette): in-app purchases and subscriptions are handled by Apple and managed through [RevenueCat](https://www.revenuecat.com/privacy). RevenueCat receives your purchase history together with an anonymous, randomly generated app user ID so your subscription can be verified and restored. It does not receive your name or email address.
+- **Crash reports and diagnostics** (Tadaima Widgets): if the Application crashes or encounters an error, a diagnostic report is sent to [Sentry](https://sentry.io/privacy/) and [Firebase Crashlytics](https://firebase.google.com/support/privacy). These reports contain technical information such as device model, operating system version, app version and the error details. They are used only to fix bugs.
+- **tado° account** (Tadaima Widgets): when you sign in with your tado° account, the Application communicates directly with tado°'s servers to show and control your devices. Your sign-in tokens are stored in your device's Keychain. The Service Provider never receives your tado° credentials or home data. Your use of tado° is covered by [tado°'s privacy policy](https://www.tado.com/privacy).
+- **Web pages** (for example a feedback board or support page) opened from an Application are covered by the privacy policy of the website you visit.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+The Applications do not collect your location, contacts, photos or advertising identifier. Measurette only asks for permission to *add* images to your photo library when you save an exported diagram; it cannot read your library.
 
-- Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-- Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-- Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+**Tracking and Advertising**
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+The Applications do not track you across apps or websites owned by other companies, do not show advertising and do not share data with data brokers.
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Service Provider does not sell or rent your information. Data is shared only with the service providers listed above, for the purposes listed above, and:
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-- [Google Play Services](https://www.google.com/policies/privacy/)
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-- as required by law, such as to comply with a subpoena, or similar legal process;
-- when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-- with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+- as required by law, such as to comply with a subpoena or similar legal process;
+- when the Service Provider believes in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 **Opt-Out Rights**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by an Application by uninstalling it. Deleting an Application also deletes the content it stored on your device.
 
-**Data Retention Policy**
+**Data Retention and Your Rights**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at moraleda@gmx.net and they will respond in a reasonable time.
+Purchase records are kept by Apple and RevenueCat for as long as needed to provide your purchases and to meet legal obligations. Crash reports are kept for a limited time and then deleted.
+
+You can request access to, or deletion of, any data related to your use of an Application by contacting the Service Provider at moraleda@gmx.net. They will respond in a reasonable time. You can manage or cancel subscriptions in your App Store account settings.
 
 **Children**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (moraleda@gmx.net) so that they will be able to take the necessary actions.
+The Applications are not directed at children under the age of 13, and the Service Provider does not knowingly collect personal information from them. If you are a parent or guardian and believe your child has provided personal information, please contact the Service Provider at moraleda@gmx.net so it can be deleted.
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider takes reasonable measures to protect your information. Sensitive data such as sign-in tokens is stored in the device's Keychain.
 
 **Changes**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time. Changes will be posted on this page. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-06-23
+This privacy policy is effective as of 2026-10-08.
 
 **Your Consent**
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+By using an Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended.
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at moraleda@gmx.net.
-
----
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+If you have any questions about privacy while using an Application, please contact the Service Provider via email at moraleda@gmx.net.
