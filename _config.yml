@@ -13,8 +13,6 @@ paginate: 10
 paginate_path: "/posts/page:num"
 
 exclude:
-  - package.json
-  - package-lock.json
-  - src
-  - node_modules
+  - CLAUDE.md
+  - README.md
   - vendor
